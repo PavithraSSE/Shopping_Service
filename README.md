@@ -8,6 +8,7 @@ Xunit Framework used for Unit test
 Depandency Injection DesignPatter used in controller level.
    
 Note: DB Scripts and Swagger screenshot added under Doc folder.
+Create New DB name call it as 'ShoppingEngine' in local DB. Otherwise change ConnectionString in appSettings.json file to connect with DB.
 Please execute added scripts in below mentioned order
 1. CategoryTable.sql
 2. SubCategoryTable.sql
