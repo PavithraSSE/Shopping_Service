@@ -1,0 +1,8 @@
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\bin\Debug\netcoreapp3.0\ShoppingDao.deps.json
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\bin\Debug\netcoreapp3.0\ShoppingDao.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\bin\Debug\netcoreapp3.0\ShoppingDao.pdb
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingDao.csprojAssemblyReference.cache
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingDao.AssemblyInfoInputs.cache
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingDao.AssemblyInfo.cs
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingDao.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingDao.pdb

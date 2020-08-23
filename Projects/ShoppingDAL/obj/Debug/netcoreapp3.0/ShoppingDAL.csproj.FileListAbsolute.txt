@@ -1,0 +1,20 @@
+G:\Interview Projects\ShoppingService\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.deps.json
+G:\Interview Projects\ShoppingService\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\Interview Projects\ShoppingService\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.AssemblyInfoInputs.cache
+G:\Interview Projects\ShoppingService\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.AssemblyInfo.cs
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.deps.json
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.csprojAssemblyReference.cache
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.AssemblyInfoInputs.cache
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.AssemblyInfo.cs
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.pdb
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\Interview Projects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.pdb
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.deps.json
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\bin\Debug\netcoreapp3.0\ShoppingDAL.pdb
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.csprojAssemblyReference.cache
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.AssemblyInfoInputs.cache
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.AssemblyInfo.cs
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingDAL\obj\Debug\netcoreapp3.0\ShoppingDAL.pdb

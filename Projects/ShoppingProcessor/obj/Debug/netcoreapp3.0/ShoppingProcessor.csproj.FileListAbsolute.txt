@@ -1,0 +1,22 @@
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingProcessor.deps.json
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingProcessor.dll
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingProcessor.pdb
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingDAL.pdb
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.csprojAssemblyReference.cache
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.AssemblyInfoInputs.cache
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.AssemblyInfo.cs
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.csproj.CopyComplete
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.dll
+G:\Interview Projects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.pdb
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingProcessor.deps.json
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingProcessor.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingProcessor.pdb
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingDAL.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\bin\Debug\netcoreapp3.0\ShoppingDAL.pdb
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.csprojAssemblyReference.cache
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.AssemblyInfoInputs.cache
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.AssemblyInfo.cs
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.csproj.CopyComplete
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.dll
+G:\SampleTestProjects\ShoppingService\Projects\ShoppingProcessor\obj\Debug\netcoreapp3.0\ShoppingProcessor.pdb

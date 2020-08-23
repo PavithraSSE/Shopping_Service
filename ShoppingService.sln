@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingService", "ShoppingService\ShoppingService.csproj", "{88F5DA8E-2A3B-418E-B5E2-5A1E258184C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{58B35B0D-6768-4BA7-A207-F968B05DDB05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingDAL", "Projects\ShoppingDAL\ShoppingDAL.csproj", "{F51160FB-5373-4543-84E4-32DDC922BC5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingDao", "Projects\ShoppingEF\ShoppingDao.csproj", "{14DD97F3-52F9-4353-9DEE-716783B94471}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingProcessor", "Projects\ShoppingProcessor\ShoppingProcessor.csproj", "{12A8875C-F0C6-4D78-8969-E959F13A55D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XunitTest", "XunitTest", "{60423D7C-409D-4ECD-8A25-C8F8818C06B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingEngine.Test", "XunitTest\ShoppingEngine.Test\ShoppingEngine.Test.csproj", "{1792B43D-8A1F-4250-9993-189F117FB2C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{F00CA362-0C82-485D-A4E8-C5E46DF3CCC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbScripts", "DbScripts", "{E245651B-8797-4AB0-9E4B-EC1360854B5E}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\DbScripts\CategoryTable.sql = Doc\DbScripts\CategoryTable.sql
+		Doc\DbScripts\InsertQuery.sql = Doc\DbScripts\InsertQuery.sql
+		Doc\DbScripts\ItemTable.sql = Doc\DbScripts\ItemTable.sql
+		Doc\DbScripts\SubCategoryTable.sql = Doc\DbScripts\SubCategoryTable.sql
+		Doc\DbScripts\usp_DeleteCategoryByName.sql = Doc\DbScripts\usp_DeleteCategoryByName.sql
+		Doc\DbScripts\usp_GetItemsByName.sql = Doc\DbScripts\usp_GetItemsByName.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SwaggerScreenShots", "SwaggerScreenShots", "{71A6AF73-8371-4051-9E0B-FF8641DB511A}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\SwaggerScreenShots\DeleteByName.jpg = Doc\SwaggerScreenShots\DeleteByName.jpg
+		Doc\SwaggerScreenShots\DeleteByName_Response.jpg = Doc\SwaggerScreenShots\DeleteByName_Response.jpg
+		Doc\SwaggerScreenShots\ItemByName.jpg = Doc\SwaggerScreenShots\ItemByName.jpg
+		Doc\SwaggerScreenShots\ItemByName_Response.jpg = Doc\SwaggerScreenShots\ItemByName_Response.jpg
+		Doc\SwaggerScreenShots\Swagger.jpg = Doc\SwaggerScreenShots\Swagger.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F5DA8E-2A3B-418E-B5E2-5A1E258184C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F5DA8E-2A3B-418E-B5E2-5A1E258184C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F5DA8E-2A3B-418E-B5E2-5A1E258184C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F5DA8E-2A3B-418E-B5E2-5A1E258184C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51160FB-5373-4543-84E4-32DDC922BC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51160FB-5373-4543-84E4-32DDC922BC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51160FB-5373-4543-84E4-32DDC922BC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51160FB-5373-4543-84E4-32DDC922BC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DD97F3-52F9-4353-9DEE-716783B94471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DD97F3-52F9-4353-9DEE-716783B94471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DD97F3-52F9-4353-9DEE-716783B94471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DD97F3-52F9-4353-9DEE-716783B94471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A8875C-F0C6-4D78-8969-E959F13A55D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A8875C-F0C6-4D78-8969-E959F13A55D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A8875C-F0C6-4D78-8969-E959F13A55D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A8875C-F0C6-4D78-8969-E959F13A55D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1792B43D-8A1F-4250-9993-189F117FB2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1792B43D-8A1F-4250-9993-189F117FB2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1792B43D-8A1F-4250-9993-189F117FB2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1792B43D-8A1F-4250-9993-189F117FB2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F51160FB-5373-4543-84E4-32DDC922BC5F} = {58B35B0D-6768-4BA7-A207-F968B05DDB05}
+		{14DD97F3-52F9-4353-9DEE-716783B94471} = {58B35B0D-6768-4BA7-A207-F968B05DDB05}
+		{12A8875C-F0C6-4D78-8969-E959F13A55D6} = {58B35B0D-6768-4BA7-A207-F968B05DDB05}
+		{1792B43D-8A1F-4250-9993-189F117FB2C0} = {60423D7C-409D-4ECD-8A25-C8F8818C06B2}
+		{E245651B-8797-4AB0-9E4B-EC1360854B5E} = {F00CA362-0C82-485D-A4E8-C5E46DF3CCC4}
+		{71A6AF73-8371-4051-9E0B-FF8641DB511A} = {F00CA362-0C82-485D-A4E8-C5E46DF3CCC4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A736F7EB-BF1D-41C8-86C6-9C25482B50D5}
+	EndGlobalSection
+EndGlobal

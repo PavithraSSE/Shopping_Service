@@ -1,0 +1,5 @@
+G:\Interview Projects\ShoppingService\Projects\ShoppingEF\bin\Debug\netcoreapp3.0\ShoppingEF.deps.json
+G:\Interview Projects\ShoppingService\Projects\ShoppingEF\bin\Debug\netcoreapp3.0\ShoppingEF.dll
+G:\Interview Projects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingEF.csprojAssemblyReference.cache
+G:\Interview Projects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingEF.AssemblyInfoInputs.cache
+G:\Interview Projects\ShoppingService\Projects\ShoppingEF\obj\Debug\netcoreapp3.0\ShoppingEF.AssemblyInfo.cs
